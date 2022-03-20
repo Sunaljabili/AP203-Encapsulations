@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3AEFBE8F-02E2-4BB5-A945-0CB036C2A472}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AP204classwork/Product.cs">
+    <Files>
+      <File FileName="AP204classwork/Program.cs" Line="16" Column="23" />
+      <File FileName="AP204classwork/Product.cs" Line="10" Column="1" />
+      <File FileName="AP204classwork/Milk.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AP204classwork" expanded="True">
+            <Node name="AP204classwork" expanded="True">
+              <Node name="Product.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AP204classwork PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

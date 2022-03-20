@@ -1,0 +1,13 @@
+/Users/sunaljabili/Desktop/AP204classwork/AP204classwork/bin/Debug/netcoreapp3.1/AP204classwork.deps.json
+/Users/sunaljabili/Desktop/AP204classwork/AP204classwork/bin/Debug/netcoreapp3.1/AP204classwork.runtimeconfig.json
+/Users/sunaljabili/Desktop/AP204classwork/AP204classwork/bin/Debug/netcoreapp3.1/AP204classwork.runtimeconfig.dev.json
+/Users/sunaljabili/Desktop/AP204classwork/AP204classwork/bin/Debug/netcoreapp3.1/AP204classwork.dll
+/Users/sunaljabili/Desktop/AP204classwork/AP204classwork/bin/Debug/netcoreapp3.1/AP204classwork.pdb
+/Users/sunaljabili/Desktop/AP204classwork/AP204classwork/obj/Debug/netcoreapp3.1/AP204classwork.csproj.AssemblyReference.cache
+/Users/sunaljabili/Desktop/AP204classwork/AP204classwork/obj/Debug/netcoreapp3.1/AP204classwork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunaljabili/Desktop/AP204classwork/AP204classwork/obj/Debug/netcoreapp3.1/AP204classwork.AssemblyInfoInputs.cache
+/Users/sunaljabili/Desktop/AP204classwork/AP204classwork/obj/Debug/netcoreapp3.1/AP204classwork.AssemblyInfo.cs
+/Users/sunaljabili/Desktop/AP204classwork/AP204classwork/obj/Debug/netcoreapp3.1/AP204classwork.csproj.CoreCompileInputs.cache
+/Users/sunaljabili/Desktop/AP204classwork/AP204classwork/obj/Debug/netcoreapp3.1/AP204classwork.dll
+/Users/sunaljabili/Desktop/AP204classwork/AP204classwork/obj/Debug/netcoreapp3.1/AP204classwork.pdb
+/Users/sunaljabili/Desktop/AP204classwork/AP204classwork/obj/Debug/netcoreapp3.1/AP204classwork.genruntimeconfig.cache
